@@ -5,6 +5,7 @@ https://www.zcyphygeodesy.com/en/h-nd-148.html
     The radial gradient integral algorithm of the anomalous field element is derived from the solution of the Stokes boundary value problem, which requires the integrand field elements to be on the equipotential surface.
     The radial direction points from the center of the Earth to the outside of the Earth.
     The equipotential surface can be constructed from a global geopotential model (not greater than 360 degrees), which can also be represent by a normal (orthometric) equiheight surface with the altitude of not more than ten kilometers.
+![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAg8uzltwYooIL4pgEwpQ047gg.jpg)
 ## [Main program for test entrance]
     Radialgradientnumintegral.f90
     Input parameters: dr - the integral radius (m).
